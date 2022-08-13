@@ -1,3 +1,9 @@
+/**
+ * NAMA : FAKHRI ADI SAPUTRA
+ * NIM : 10119116
+ * KELAS : IF-3
+ */
+
 package com.fakhrads.uasakbif3101191116.ui.home;
 
 import android.content.Context;
@@ -45,7 +51,14 @@ public class HomeFragment extends Fragment {
         databaseAcces = DatabaseAcces.getInstance(getActivity());
         binding = FragmentHomeBinding.inflate(inflater, container, false);
         listView = (ListView) root.findViewById(R.id.listView);
+        FloatingActionButton fab = (FloatingActionButton) root.findViewById(R.id.floatingActionButton);
 
+        fab.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                startActivity(new Intent(getActivity(), EditActivity.class));
+            }
+        });
         return root;
     }
 
@@ -87,13 +100,7 @@ public class HomeFragment extends Fragment {
             TextView txtMemo = convertView.findViewById(R.id.txtMemo);
             TextView txtCat =  convertView.findViewById(R.id.txtCat);
             TextView txtDate =  convertView.findViewById(R.id.txtDate);
-            FloatingActionButton fab = getActivity().findViewById(R.id.floatingActionButton);
-            fab.setOnClickListener(new View.OnClickListener() {
-                @Override
-                public void onClick(View view) {
-                    startActivity(new Intent(getActivity(), EditActivity.class));
-                }
-            });
+
             final Notes memo = memos.get(position);
             textTitle.setText(memo.getCategory());
             txtCat.setText(memo.getTtitle());

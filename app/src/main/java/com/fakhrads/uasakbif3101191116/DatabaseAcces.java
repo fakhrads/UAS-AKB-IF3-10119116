@@ -1,3 +1,8 @@
+/**
+ * NAMA : FAKHRI ADI SAPUTRA
+ * NIM : 10119116
+ * KELAS : IF-3
+ */
 package com.fakhrads.uasakbif3101191116;
 
 import android.content.ContentValues;
