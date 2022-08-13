@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "C:\\Users\\fakhrads\\.gradle\\daemon\\7.3.3\\com.fakhrads.uasakbif3101191116.app-mergeDebugResources-48:\\layout\\fragment_notifications.xml",
+        "source": "C:\\Users\\fakhrads\\.gradle\\daemon\\7.3.3\\com.fakhrads.uasakbif3101191116.app-main-51:\\layout\\fragment_notifications.xml"
+    },
+    {
+        "merged": "C:\\Users\\fakhrads\\.gradle\\daemon\\7.3.3\\com.fakhrads.uasakbif3101191116.app-mergeDebugResources-48:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\fakhrads\\.gradle\\daemon\\7.3.3\\com.fakhrads.uasakbif3101191116.app-main-51:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\fakhrads\\.gradle\\daemon\\7.3.3\\com.fakhrads.uasakbif3101191116.app-mergeDebugResources-48:\\layout\\activity_intro.xml",
+        "source": "C:\\Users\\fakhrads\\.gradle\\daemon\\7.3.3\\com.fakhrads.uasakbif3101191116.app-main-51:\\layout\\activity_intro.xml"
+    },
+    {
+        "merged": "C:\\Users\\fakhrads\\.gradle\\daemon\\7.3.3\\com.fakhrads.uasakbif3101191116.app-mergeDebugResources-48:\\layout\\fragment_intro_page1.xml",
+        "source": "C:\\Users\\fakhrads\\.gradle\\daemon\\7.3.3\\com.fakhrads.uasakbif3101191116.app-main-51:\\layout\\fragment_intro_page1.xml"
+    },
+    {
+        "merged": "C:\\Users\\fakhrads\\.gradle\\daemon\\7.3.3\\com.fakhrads.uasakbif3101191116.app-mergeDebugResources-48:\\layout\\activity_splash_screen.xml",
+        "source": "C:\\Users\\fakhrads\\.gradle\\daemon\\7.3.3\\com.fakhrads.uasakbif3101191116.app-main-51:\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\fakhrads\\.gradle\\daemon\\7.3.3\\com.fakhrads.uasakbif3101191116.app-mergeDebugResources-48:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\fakhrads\\.gradle\\daemon\\7.3.3\\com.fakhrads.uasakbif3101191116.app-main-51:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\fakhrads\\.gradle\\daemon\\7.3.3\\com.fakhrads.uasakbif3101191116.app-mergeDebugResources-48:\\layout\\fragment_intro_page3.xml",
+        "source": "C:\\Users\\fakhrads\\.gradle\\daemon\\7.3.3\\com.fakhrads.uasakbif3101191116.app-main-51:\\layout\\fragment_intro_page3.xml"
+    },
+    {
+        "merged": "com.fakhrads.uasakbif3101191116.app-mergeDebugResources-48:/layout/fragment_home.xml",
+        "source": "com.fakhrads.uasakbif3101191116.app-main-51:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\fakhrads\\.gradle\\daemon\\7.3.3\\com.fakhrads.uasakbif3101191116.app-mergeDebugResources-48:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\fakhrads\\.gradle\\daemon\\7.3.3\\com.fakhrads.uasakbif3101191116.app-main-51:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\fakhrads\\.gradle\\daemon\\7.3.3\\com.fakhrads.uasakbif3101191116.app-mergeDebugResources-48:\\layout\\activity_registration.xml",
+        "source": "C:\\Users\\fakhrads\\.gradle\\daemon\\7.3.3\\com.fakhrads.uasakbif3101191116.app-main-51:\\layout\\activity_registration.xml"
+    },
+    {
+        "merged": "C:\\Users\\fakhrads\\.gradle\\daemon\\7.3.3\\com.fakhrads.uasakbif3101191116.app-mergeDebugResources-48:\\layout\\fragment_intro_page2.xml",
+        "source": "C:\\Users\\fakhrads\\.gradle\\daemon\\7.3.3\\com.fakhrads.uasakbif3101191116.app-main-51:\\layout\\fragment_intro_page2.xml"
+    },
+    {
+        "merged": "C:\\Users\\fakhrads\\.gradle\\daemon\\7.3.3\\com.fakhrads.uasakbif3101191116.app-mergeDebugResources-48:\\layout\\layout_list_item.xml",
+        "source": "C:\\Users\\fakhrads\\.gradle\\daemon\\7.3.3\\com.fakhrads.uasakbif3101191116.app-main-51:\\layout\\layout_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\fakhrads\\.gradle\\daemon\\7.3.3\\com.fakhrads.uasakbif3101191116.app-mergeDebugResources-48:\\layout\\fragment_dashboard.xml",
+        "source": "C:\\Users\\fakhrads\\.gradle\\daemon\\7.3.3\\com.fakhrads.uasakbif3101191116.app-main-51:\\layout\\fragment_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\fakhrads\\.gradle\\daemon\\7.3.3\\com.fakhrads.uasakbif3101191116.app-mergeDebugResources-48:\\layout\\activity_edit.xml",
+        "source": "C:\\Users\\fakhrads\\.gradle\\daemon\\7.3.3\\com.fakhrads.uasakbif3101191116.app-main-51:\\layout\\activity_edit.xml"
+    }
+]

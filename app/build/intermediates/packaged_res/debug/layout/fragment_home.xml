@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:backgroundTint="@color/black"
+    tools:context=".ui.home.HomeFragment"
+    android:id="@+id/relativeLayout">
+
+
+    <ListView
+        android:id="@+id/listView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:divider="@android:color/transparent"
+        android:dividerHeight="10dp"
+        android:listSelector="@android:color/transparent"
+        android:backgroundTint="@color/pastel_2"
+        tools:layout_conversion_absoluteHeight="717dp"
+        tools:layout_conversion_absoluteWidth="402dp"
+        tools:layout_editor_absoluteX="5dp"
+        tools:layout_editor_absoluteY="5dp"/>
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/floatingActionButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="510dp"
+        android:layout_marginEnd="25dp"
+        android:clickable="true"
+        android:contentDescription="@string/fab"
+        app:srcCompat="@drawable/ic_baseline_add_24" />
+
+
+</RelativeLayout>
