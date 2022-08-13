@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">UAS AKB IF3 101191116</string>
+    <string name="title_home">Catatan</string>
+    <string name="title_dashboard">Tentang Aplikasi</string>
+    <string name="title_notifications">Profile Mahasiswa</string>
+
+    <string name="google_maps_key">AIzaSyBPmKnOXPCN_4b-ypbnIrepyHLmerA2CI4</string>
+
+    <string name="logout">Logout</string>
+    <string name="nama_saya">Fakhri Adi Saputra</string>
+    <string name="nim_saya">10119116</string>
+    <string name="kelas_saya">IF-3</string>
+    <string name="fab">Tambah</string>
+    <string name="email_saya">fakhrias.10119116@mahasiswa.unikom.ac.id</string>
+    <string name="about">Aplikasi ini dibuat untuk memenuhi tugas uas AKB IF3 10119116.</string>
+</resources>

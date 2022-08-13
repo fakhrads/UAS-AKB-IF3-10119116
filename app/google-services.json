@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "569244518839",
+    "project_id": "aplikasi-login-firebase-587ae",
+    "storage_bucket": "aplikasi-login-firebase-587ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569244518839:android:a369e073061fd095e8c032",
+        "android_client_info": {
+          "package_name": "com.example.aplikasiloginfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569244518839-6mf1odqa6eb6kctdnhgabmlk4slvup4h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5frRUsw965eJsjp2t0ghHOruTzXfey3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569244518839-6mf1odqa6eb6kctdnhgabmlk4slvup4h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569244518839:android:423d88caff178ac2e8c032",
+        "android_client_info": {
+          "package_name": "com.fakhrads.uasakbif3101191116"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569244518839-6mf1odqa6eb6kctdnhgabmlk4slvup4h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5frRUsw965eJsjp2t0ghHOruTzXfey3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569244518839-6mf1odqa6eb6kctdnhgabmlk4slvup4h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

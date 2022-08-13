@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="image_view_icon_firebase_activity_main" type="id" />
+    <item name="edit_text_username_activity_main" type="id" />
+    <item name="edit_text_password_activity_main" type="id" />
+    <item name="button_login_activity_main" type="id" />
+</resources>
